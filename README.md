@@ -6,7 +6,7 @@ figures in London during the year of the Great Exhibition, where each one
 lived, worked, or simply visited, and, above all, what they were thinking at
 the time.
 
-**Live site:** *(GitHub Pages URL)*
+**Live site:** *https://aliceaviggiani.github.io/p-london-1851-storytelling/index.html*
 
 ## How we built it
 
